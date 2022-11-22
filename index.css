@@ -1,0 +1,112 @@
+.div{
+    background-image: url(image1.jpg);
+    
+}
+.div1{
+    position: relative;
+    height: 100%;
+}
+.div2{
+    position: absolute;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.sec{
+    background-color: white;
+    text-align: center;
+    padding: 50px 80px;
+    display: block;
+    
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+    
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.div3{
+    background-image: url(image2.jpg);
+    
+}
+.div4{
+    position: relative;
+    height: 100%;
+}
+.div5{
+    position: absolute;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color:white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.sec1{
+    text-align: center;
+    padding: 50px 80px;
+    display: block;
+    background-color: #282e34;
+    color: #ddd;
+    
+}
+.div6{
+    background-image: url(image3.jpg);
+    
+}
+.div7{
+    position: relative;
+    height: 100%;
+}
+.div8{
+    position: absolute;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color:white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.sec2{
+    text-align: center;
+    padding: 50px 80px;
+    display: block;
+    background-color: #282e34;
+    color: #ddd;
+    
+}
+.hed{
+    background-color: #111;
+    color: #fff;
+    padding: 20pxx;
+}
+.div, .div3, .div6{
+   
+        position: relative;
+        opacity: 0.70;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
